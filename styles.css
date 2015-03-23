@@ -1,0 +1,99 @@
+table.olt{
+
+border-spacing: 0px
+
+}
+
+
+table.olt td.frame-up{
+
+    border : 1px solid grey;
+    width: 16px;
+    height: 108px;
+    background: url("img/frame_up.jpg") no-repeat;
+
+}
+
+table.olt td.of-port{
+
+    border-left : 1px solid grey;
+    border-right : 1px solid grey;
+    width: 16px;
+    height: 23px;
+    background: url("img/off_port.jpg") no-repeat;
+
+}
+
+table.olt td.down-port{
+
+    border-left : 1px solid red;
+    border-right : 1px solid red;
+padding: 3px 
+    width: 16px;
+    height: 23px;
+    background: url("img/down_port.png") no-repeat;
+
+}
+
+table.olt td.frame-mid{
+
+    border: 1px solid grey;
+    width: 16px;
+    height: 49px;
+    background: url("img/frame_mid.jpg") no-repeat;
+
+}
+
+table.olt td.frame-down{
+
+    border: 1px solid grey;
+    width: 16px;
+    height: 65px;
+    background: url("img/frame_down.jpg") no-repeat;
+
+}
+
+table.olt td.port{
+
+    border : 1px solid grey;
+    width: 16px;
+    height: 225px;
+    background: url("img/port.jpg") no-repeat;
+
+}
+
+table.olt td.olt-mid{
+
+    border : 1px solid grey;
+    width: 16px;
+    height: 225px;
+    background: url("img/olt_mid.jpg") no-repeat;
+
+}
+
+table.olt td.olt-end{
+
+    border : 1px solid grey;
+    width: 16px;
+    height: 225px;
+    background: url("img/olt_end.jpg") no-repeat;
+
+}
+
+table.olt td.olt-front{
+
+    border : 1px solid grey;
+    width: 24px;
+    height: 225px;
+    background: url("img/olt_front.jpg") no-repeat;
+
+}
+
+table.olt td.down-mid{
+
+    border : 1px solid grey;
+    width: 16px;
+    height: 189px;
+    background: url("img/down_mid.jpg") no-repeat;
+
+}
